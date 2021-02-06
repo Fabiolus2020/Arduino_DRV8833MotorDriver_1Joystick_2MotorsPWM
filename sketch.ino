@@ -23,7 +23,7 @@
 // global variables
 #define ain1  5  // Motor A input 1
 #define ain2  6  // Motor A input 2
-#define bin1  9 // Motor B input 1
+#define bin1  10 // Motor B input 1
 #define bin2  3 // Motor B input 2
 #define slp  4  // DRV8833 sleep/enable
 #define flt  2   // overcurrent/overheat fault
